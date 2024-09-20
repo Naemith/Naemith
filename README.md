@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋, I'm Romain Vallot 🇫🇷 🇬🇧 🇩🇪
+
+I am currently doing my M.Sc in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France 🇫🇷. 
+
+In my spare time, I like to go climbing and working on small coding projects, as little video games that you can find on [itch.io](https://minarov.itch.io
+).
+
+
 
 <!--
 **Naemith/Naemith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
