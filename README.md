@@ -17,13 +17,15 @@ Feel free to contact me
   <img align="left" alt="Sadil's Mail" width="22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
 </a>
 
+
+
 **Languages and Tools:**
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/280px-C_Programming_Language.svg.png"></code>
-<code><img height="40" src=""></code>
-<code><img height="40" src=""></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg"></code>
 <code><img height="40" src=""></code>
 <!--
 **Naemith/Naemith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
