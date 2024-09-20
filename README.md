@@ -16,8 +16,8 @@ Feel free to contact me
 <a href="mailto:rvallot96@gmail.com?subject=Mail&body=Please Mail Me!">
   <img align="left" alt="Sadil's Mail" width="22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
 </a>
-
-
+<br />
+<br />
 
 **Languages and Tools:**
 
@@ -26,7 +26,7 @@ Feel free to contact me
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/280px-C_Programming_Language.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg"></code>
-<code><img height="40" src=""></code>
+<code><img height="40" src="https://talks.freelancerepublik.com/wp-content/uploads/2021/12/vsc.png"></code>
 <!--
 **Naemith/Naemith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
